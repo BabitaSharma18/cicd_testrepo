@@ -16,6 +16,7 @@
     "@sap/cds-dk": "^8"
   },
   "scripts": {
+    "test": "cds test",
     "start": "cds-serve"
   },
   "cds": {
