@@ -1,0 +1,4 @@
+id,name,email,phone,address_street,address_city,address_state,address_pincode,project_id
+1,bob,bob@gmail.com,9987654567,djjdj,Bangalore,Karnataka,600321,1
+2,babita,baffmb@gmail.com,9987654567,djjdj,Bangalore,Karnataka,600322,1
+3,saru,saru@gmail.com,9987654567,djjdj,Bangalore,Karnataka,600321,1
